@@ -1,0 +1,51 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-date-math": "^1.5.1",
+    "@progress/kendo-drawing": "^1.9.3",
+    "@progress/kendo-licensing": "^1.1.0",
+    "@progress/kendo-react-buttons": "^4.1.0",
+    "@progress/kendo-react-dateinputs": "^4.1.0",
+    "@progress/kendo-react-dialogs": "^4.1.0",
+    "@progress/kendo-react-dropdowns": "^4.1.0",
+    "@progress/kendo-react-editor": "^3.17.0",
+    "@progress/kendo-react-form": "^4.1.0",
+    "@progress/kendo-react-inputs": "^4.1.0",
+    "@progress/kendo-react-intl": "^4.1.0",
+    "@progress/kendo-react-layout": "^3.17.0",
+    "@progress/kendo-react-pdf": "^3.18.0",
+    "@progress/kendo-react-popup": "^4.1.0",
+    "@progress/kendo-react-progressbars": "^3.17.0",
+    "@progress/kendo-react-scheduler": "^4.1.0",
+    "babel-polyfill": "^6.26.0",
+    "core-js": "^3.6.5",
+    "cra-template": "1.0.3",
+    "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.6",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ]
+  }
+}
